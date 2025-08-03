@@ -4,7 +4,7 @@
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
 <p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
+  <a href="https://www.linkedin.com/in/hossainforhad28/" target="_blank" rel="noreferrer"> Book a Text with me! </a>
 </p>
 
 <!-- GIF -->
@@ -46,6 +46,6 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
+- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:hossain.28forhad@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 
