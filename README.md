@@ -46,6 +46,5 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:hossain.28forhad@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
+- 📫 How to reach me **[hossain.28forhad@gmail.com](mailto:hossain.28forhad@gmail.com)**
 
